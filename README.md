@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel Ramirez</h1>
 <h3 align="center">A passionate Engineer</h3>
 
-- 🔭 I’m currently working on **Spotify visualizer**
+- 🔭 I’m currently working on **Gui for quantum mechanics research**
 
 - 🌱 I’m currently learning **Digital signal processing & control Systems**
 
