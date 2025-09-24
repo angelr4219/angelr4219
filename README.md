@@ -1,21 +1,47 @@
-<h1 align="center">Hi 👋, I'm Angel Ramirez</h1>
-<h3 align="center">A passionate Engineer</h3>
+# Hi there, I’m Angel Ramirez 👋
 
-- 🔭 I’m currently working on **Gui for quantum mechanics research**
+## About Me  
+I’m a passionate engineer focused on building tools for **quantum mechanics research**.  
+🔭 Currently working on a GUI interface tailored for quantum simulations and experiments.  
+🌱 Learning new techniques in **digital signal processing** and **control systems**.  
+👯 I’m open to collaborating on projects related to DSP and control systems.  
+📫 You can reach me at:  
+angel.d.ramirez319@gmail.com  
 
-- 🌱 I’m currently learning **Digital signal processing & control Systems**
+---
 
-- 👯 I’m looking to collaborate on **Digital signal processing**
+## ⚡ Fun Fact  
+I’m also a mariachi musician! 🎶
 
-- 📫 How to reach me **angel.d.ramirez319@gmail.com**
+---
 
-- ⚡ Fun fact **I am im a mariachi**
+## Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/angel-ramirez-458915253/)
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-  https://www.linkedin.com/in/angel-ramirez-458915253/
-</p>
+## 🧠 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🔬 Quantum Semiconductor Simulation  
+A numerical simulation tool for analyzing quantum mechanical behavior in semiconductors.  
+Using differential equations and advanced numerical analysis techniques, this project explores physical systems at the nanoscale.  
+**Tech:** Python, NumPy, SciPy, Matplotlib, custom GUI (Tkinter or PyQt planned)
+
+### 🎺 Full-Stack Mariachi Business Platform  
+An official mariachi business website created for UCLA's only student-led mariachi group — serving as a formal booking and outreach platform.  
+Includes full-stack development for dynamic content management and event scheduling.  
+**Tech:** React, Firebase, Node.js, MongoDB, HTML/CSS, GitHub Actions for CI/CD
+
+---
+
+## 🛠️ Languages & Tools  
+| Domain | Technologies |
+|---|---|
+| Programming | Arduino, C++, Java, Python, JavaScript, HTML5, CSS3 |
+| Scientific & Data | MATLAB, NumPy, Pandas, PyTorch, scikit‑learn |
+| Web / Backend | React, Firebase, MongoDB |
+| Tools & Frameworks | Unity |
+
+---
+
+Thank you for visiting my profile — let’s build something awesome! 🚀
